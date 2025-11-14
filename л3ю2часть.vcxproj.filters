@@ -44,4 +44,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="triplemodel.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+  </ItemGroup>
 </Project>
